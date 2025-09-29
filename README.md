@@ -107,7 +107,8 @@ Execute the program using runserver command.
 ```
 # OUTPUT
 
-![alt text](<Screenshot 2025-09-26 134121-1.png>)
+
+<img width="1914" height="1089" alt="Screenshot 2025-09-26 134121" src="https://github.com/user-attachments/assets/ffa8a6ee-8af1-4499-93d7-217e1e74906d" />
 
 
 # RESULT
